@@ -8,7 +8,6 @@ A modern, performant wallpaper website built with Next.js and TypeScript, design
 * [Features](#features)
 * [Tech Stack](#tech-stack)
 * [Getting Started](#getting-started)
-
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
   * [Running Locally](#running-locally)
@@ -18,6 +17,7 @@ A modern, performant wallpaper website built with Next.js and TypeScript, design
 * [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
+* [Support](#support)
 
 ## About
 
@@ -58,7 +58,7 @@ cd pixel-haven-wallpaper-website
 
 # Install dependencies (using pnpm)
 pnpm install
-```
+````
 
 ### Running Locally
 
@@ -124,5 +124,12 @@ Feel free to reach out for questions, suggestions or feedback.
 
 ---
 
-Thank you for checking out Pixel Haven — happy coding and happy wallpaper browsing! 🖼️
+## ☕ Support
 
+If you like this project and want to support its development, you can buy me a coffee!
+
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/dongduong8m)
+
+---
+
+Thank you for checking out Pixel Haven — happy coding and happy wallpaper browsing! 🖼️
